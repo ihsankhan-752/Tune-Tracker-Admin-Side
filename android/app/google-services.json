@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482085289371",
+    "project_id": "tunetracker-d65bf",
+    "storage_bucket": "tunetracker-d65bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482085289371:android:c03ee6080e22f27ca2753e",
+        "android_client_info": {
+          "package_name": "com.iktechsol.tune_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfeVXZE1CrNIsCAAlQ3nCdVXTJlCiICpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
